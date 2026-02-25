@@ -1,4 +1,4 @@
-### Apache Tomcat: Overview and Usage ---------------
+### Apache Tomcat: Overview and Usage 
 
 #### What is Apache Tomcat?
 
