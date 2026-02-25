@@ -4,6 +4,11 @@ pipeline {
         label 'agent-1'
     }
 
+    tools {
+        maven 'maven-3.6.1'
+        jdk 'jdk-17'
+    }
+
     stages {
 
         stage('Compile') {
